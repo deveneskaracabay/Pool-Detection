@@ -5,4 +5,5 @@ Verilen fotoğrafta havuzu teslim etmeye çalışıyoruz.
 ![img](foto.jpeg)
 ### Çıktı
 Fotoğraf üzerinde yapılan işlemler:
+<br/>
 ![img](image.jpeg)
