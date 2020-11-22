@@ -7,3 +7,8 @@ Verilen fotoğrafta havuzu teslim etmeye çalışıyoruz.
 Fotoğraf üzerinde yapılan işlemler:
 <br/>
 ![img](image.jpeg)
+<br/>
+<br/>
+Kırpılan fotoğrafın görüntüsü:
+<br/>
+![img](pool.jpeg)
