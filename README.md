@@ -1,6 +1,6 @@
 # Havuz Tespiti
 ### Amaç:
-Verilen fotoğrafta havuzu teslim etmeye çalışıyoruz.
+Verilen fotoğrafta havuzu tespit etmeye çalışıyoruz.
 <br/>
 ![img](foto.jpeg)
 ### Çıktı
